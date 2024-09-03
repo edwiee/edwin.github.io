@@ -16,6 +16,33 @@
 <code><img height="30" alt="TAILWIND" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>&nbsp;&nbsp;
 <br>
 
+## 📺 Folders Inside
+A quick look at the folder structure of this project 👀
+```
+📦
+└── edwin.github.io
+    ├── app
+    │   ├── contact
+    │   ├── projects
+    │   ├── resume
+    │   ├── services
+    │   ├── favicon.ico
+    │   ├── globals.css
+    │   ├── layout.js
+    │   └── page.js
+    ├── components
+    │   └── ui
+    ├── lib
+    ├── public
+    ├── components.json
+    ├── jsconfig.json
+    ├── next.config.mjs
+    ├── package-lock.json
+    ├── package.json
+    ├── postcss.config.mjs
+    └── tailwind.config.js
+```
+
 ## :rocket: Quick start
 
 <p>Run the site locally<p>
@@ -49,32 +76,6 @@ npm run dev
 ```
 After running the development server the site should be running on http://localhost:3000
 
-## 📺 Folders Inside
-A quick look at the folder structure of this project 👀
-```
-📦
-└── edwin.github.io
-    ├── app
-    │   ├── contact
-    │   ├── projects
-    │   ├── resume
-    │   ├── services
-    │   ├── favicon.ico
-    │   ├── globals.css
-    │   ├── layout.js
-    │   └── page.js
-    ├── components
-    │   └── ui
-    ├── lib
-    ├── public
-    ├── components.json
-    ├── jsconfig.json
-    ├── next.config.mjs
-    ├── package-lock.json
-    ├── package.json
-    ├── postcss.config.mjs
-    └── tailwind.config.js
-```
 
 ----
 <p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
