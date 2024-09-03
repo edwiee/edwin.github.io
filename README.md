@@ -5,7 +5,7 @@
 
 ![GitHub](https://img.shields.io/github/license/edwiee/edwin.github.io)
 
-![PORTFOLIO(https://github.com/user-attachments/assets/5b7d3a12-fe46-4279-ae74-4b785773b7e3)](https://github.com/user-attachments/assets/5b7d3a12-fe46-4279-ae74-4b785773b7e3)
+https://github.com/user-attachments/assets/5b7d3a12-fe46-4279-ae74-4b785773b7e3
 
 ## 🌿 Build With
 <code><img height="30" alt="VSCODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>&nbsp;&nbsp;
